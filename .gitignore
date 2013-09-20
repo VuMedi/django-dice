@@ -1,0 +1,5 @@
+*.pyc
+.idea
+.coverage
+dist
+django_dice.egg-info
